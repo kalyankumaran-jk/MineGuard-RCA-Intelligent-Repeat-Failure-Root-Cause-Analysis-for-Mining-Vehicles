@@ -1,0 +1,6 @@
+{
+  "name": "Repeat-Failure Root-Cause Graph",
+  "description": "End-to-end maintenance intelligence and root-cause dependency graph for mining heavy vehicles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
